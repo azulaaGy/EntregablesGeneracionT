@@ -1,0 +1,37 @@
+div{
+    margin: 0px auto;
+}
+.pan{
+    height: 60px;
+    width: 400px;
+    background-color: rgb(221, 173, 14);
+}
+#d1{
+    border-top-right-radius: 40px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom: 10px rgb(165, 127, 4) solid;  
+}
+#d2{
+    height: 60px;
+    width: 450px;
+    border-radius: 30px;
+    background-color: rgb(186, 39, 2);
+}
+#d3{
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top: 10px rgb(165, 127, 4) solid;
+}
+body{
+    background-color: blanchedalmond;
+}
+p{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(113, 5, 5);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
